@@ -70,7 +70,9 @@ Hello, Bikash Shrestha
 
 To publish your gem, you'll need to create an account on RubyGems.org.
 
-After creating an account, you can push your gem to RubyGems.org using the following command:
+After creating an account, you can push your gem to RubyGems.org using the following commands:
+
+Sign in using `gem signin` (this will ask your email/username and password on command prompt)
 
 `gem push user_greeting-0.0.1.gem`
 
