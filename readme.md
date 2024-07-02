@@ -83,3 +83,9 @@ Install your gem : `gem install user_greeting`
 [Ruby Gem Basics](https://guides.rubygems.org/make-your-own-gem/)
 
 [Specification Ref.](https://guides.rubygems.org/specification-reference/)
+[Publish your first ruby gem](https://medium.com/@dhyegocalota/how-to-create-and-publish-your-first-configurable-ruby-gem-996ad50f0629)
+[Crafting and Publishing Your Ruby Gem](https://medium.com/@bhuvaneshganesan/here-are-step-by-step-instructions-to-create-build-and-publish-a-ruby-gem-on-rubygems-org-3cb5a22b59c0)
+[RubyMine: Create & Publish your first Ruby gem](https://www.jetbrains.com/help/ruby/creating-and-publishing-your-first-ruby-gem.html)
+[Lunch your own Ruby gem](https://buttercms.com/blog/launching-your-own-ruby-gem-build-it/)
+[A step by step guide for building ruby gem](https://www.honeybadger.io/blog/create-ruby-gem/)
+
